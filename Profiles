@@ -1,1 +1,4 @@
 0=alternative=Founder=mydescription
+1=john_doe=Admin=Администратор системы
+2=user123=Member=Обычный пользователь с длинным описанием
+3=moderator=Moderator=https://example.com/profile
